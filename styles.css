@@ -1,0 +1,135 @@
+.top-container {
+  background-color: #e4f9f5;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 120px;
+  position: relative;
+}
+
+h1 {
+  ;
+  font-family: 'Sacramento', cursive;
+  font-size: 4.375rem;
+  margin: 50px auto 0 auto;
+  color: #a6a053;
+}
+
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h3 {
+  color: #9a00db;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 350px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 420px;
+  top: 70px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.h3-1 {
+  text-align: left;
+}
+
+.web {
+  margin-right: 30px;
+  float: left;
+  width: 50%;
+}
+
+.program {
+  float: right;
+  margin-left: 30px;
+}
+
+.programmer {
+  color: #969094;
+}
+.hello{
+  font-size: 35px;
+  color: #2e3557;
+}
+hr{
+  border: none;
+   border-top: 10px dotted #EAF6F6;
+   width: 80px;
+ }
+.my-skills{
+  color: #2e3557;
+  font-size: 50px;
+}
+.get{
+  color: #2e3557;
+  font-size: 35px;
+}
+.bottom-container{
+  background-color: #67abe6;
+  padding: 40px;
+  height: 50px;
+  margin-top: 70px;
+}
+.footer-link{
+  margin-right: 35px;
+  text-decoration: none;}
+  .copyright{
+    color: white;
+  }
+
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #1199e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #1199e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #1199e);
+  background-image: -o-linear-gradient(top, #11cdd4, #1199e);
+  background-image: linear-gradient(to bottom, #11cdd4, #1199e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+
+
+.contact-message{
+width: 40%;
+margin: 40px auto 60px;
+}
+p{
+  line-height: 2;
+}
